@@ -29,7 +29,7 @@ The numeric forecasting target is `actual_demand_mw` (MW). `nws_forecast_summary
 
 - Hourly electricity data come from the U.S. Energy Information Administration [EIA-930 API](https://www.eia.gov/electricity/930-content/about.html). See the [EIA reuse policy](https://www.eia.gov/about/copyrights_reuse.php) and [API terms](https://www.eia.gov/opendata/terms-of-service.php).
 - Area Forecast Discussions come from the U.S. National Weather Service via the Iowa State University Iowa Environmental Mesonet [NWS text archive](https://mesonet.agron.iastate.edu/info/datasets/afos.html). See the [NWS disclaimer](https://www.weather.gov/disclaimer) and [IEM usage policy](https://mesonet.agron.iastate.edu/disclaimer.php).
-- The dataset authors generated the summaries retrospectively using the request model label `gpt-5.5`. The archived metadata preserve the label and cache-write times. The exact model snapshot and full per-request settings are unavailable. The summaries are research derivatives of the source discussions.
+- The dataset authors generated the summaries retrospectively using the request model label `gpt-5.5`. The archived metadata preserve the label and cache-write times.
 
 ## Limitations
 
