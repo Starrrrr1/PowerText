@@ -33,4 +33,4 @@ The numeric forecasting target is `actual_demand_mw` (MW). `nws_forecast_summary
 
 ## Limitations
 
-Every recorded source discussion was issued at or before its associated hourly timestamp. The summaries were produced after the historical target period. The archive does not establish real-time receipt or the historical availability of individual demand revisions. Each representative forecast office covers its own service area, which may differ from the assigned electricity region. The snapshot retains eight zero-demand rows in NYIS whose provider-level interpretation is unverified.
+Every recorded source discussion was issued at or before its associated hourly timestamp. Each representative forecast office covers its own service area, which may differ from the assigned electricity region. 
